@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Esenciak
+- 👋 Hi, I’m Karol Jabłoński (@Esenciak)
 - 👀 I’m interested in game dev 
 - 🌱 I’m currently learning:
 
