@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Karol Jabłoński (@Esenciak)
+- 🖥  Software engineering student
 - 👀 I’m interested in game dev 
 - 🌱 I’m currently learning:
 
