@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
-- 💞️ I’m looking to collaborate on learning
+- 💞️ I'm looking for cooperation in learning programming
 - 📫 How to reach me Karol.jablonski00@gmail.com
 
 <!---
