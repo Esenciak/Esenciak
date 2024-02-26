@@ -1,11 +1,11 @@
-<h3>👋 Hi, I’m Karol Jabłoński (@Esenciak)</h3>
+<h1>👋 Hi, I’m Karol Jabłoński (@Esenciak)</h1>
 <h2>🖥️ Software Engineering Student</h2>
-<h1>👀 About Me</h1>
+<h2>👀 About Me</h2>
 <p>Jestem studentem informatyki, zainteresowanym tworzeniem oprogramowania oraz rozwojem aplikacji mobilnych i gier komputerowych.
 Moje umiejętności programistyczne obejmują C++, C#, ASP.NET, podstawy Pythona i Javy oraz podstawy Unity.<br>
 Aktualnie uczę się tworzyć aplikacje webowe w ASP.NET 8 oraz rozwijać moje umiejętności w zakresie programowania gier.<br>
 Jestem również zaznajomiony z narzędziami do zarządzania projektem, takimi jak JIRA.</p>
-<h1>🌱 I’m currently learning:</h1>
+<h2>🌱 I’m currently learning:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -16,9 +16,9 @@ Jestem również zaznajomiony z narzędziami do zarządzania projektem, takimi j
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA" idth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40"/>&nbsp;
 </div>
-<h1>🎮 Interests</h1>
-<p>Poza programowaniem moje zainteresowania obejmują gry komputerowe. Uwielbiam eksplorować nowe światy wirtualne i odkrywać unikalne mechaniki gier.</p>
-  <h1>📫 How to reach me</h1>
+<h2>🎮 Interests</h2>
+  <p>Poza programowaniem moje zainteresowania obejmują gry komputerowe. Uwielbiam eksplorować nowe światy wirtualne i odkrywać unikalne mechaniki gier.</p>
+<h2>📫 How to reach me</h2>
  Karol.jablonski00@gmail.com
 
 <!---
