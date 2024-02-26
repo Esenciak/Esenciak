@@ -1,18 +1,25 @@
-- 👋 Hi, I’m Karol Jabłoński (@Esenciak)
-- 🖥  Software engineering student
-- 👀 I’m interested in game dev 
-- 🌱 I’m currently learning:
-
+<h3>👋 Hi, I’m Karol Jabłoński (@Esenciak)</h3>
+<h2>🖥️ Software Engineering Student</h2>
+<h1>👀 About Me</h1>
+<p>Jestem studentem informatyki, zainteresowanym tworzeniem oprogramowania oraz rozwojem aplikacji mobilnych i gier komputerowych.
+Moje umiejętności programistyczne obejmują C++, C#, ASP.NET, podstawy Pythona i Javy oraz podstawy Unity.<br>
+Aktualnie uczę się tworzyć aplikacje webowe w ASP.NET 8 oraz rozwijać moje umiejętności w zakresie programowania gier.<br>
+Jestem również zaznajomiony z narzędziami do zarządzania projektem, takimi jak JIRA.</p>
+<h1>🌱 I’m currently learning:</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python 3.0" alt="Python 3.0" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C++, C#" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="JIRA" idth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40"/>&nbsp;
 </div>
-
-- 💞️ I'm looking for cooperation in learning programming
-- 📫 How to reach me Karol.jablonski00@gmail.com
+<h1>🎮 Interests</h1>
+<p>Poza programowaniem moje zainteresowania obejmują gry komputerowe. Uwielbiam eksplorować nowe światy wirtualne i odkrywać unikalne mechaniki gier.</p>
+  <h1>📫 How to reach me</h1>
+ Karol.jablonski00@gmail.com
 
 <!---
 Esenciak/Esenciak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
