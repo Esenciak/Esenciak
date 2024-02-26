@@ -17,7 +17,7 @@ Jestem również zaznajomiony z narzędziami do zarządzania projektem, takimi j
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40"/>&nbsp;
 </div>
 <h2>🎮 Interests</h2>
-  <p>Poza programowaniem moje zainteresowania obejmują gry komputerowe. Uwielbiam eksplorować nowe światy wirtualne i odkrywać unikalne mechaniki gier.</p>
+ <p>Poza programowaniem, moje zainteresowania koncentrują się głównie wokół gier komputerowych, szczególnie tych z gatunku SCI-FI, zarówno tych jednoosobowych, jak i wieloosobowych, gdzie rywalizacja z innymi graczami jest kluczowym elementem. Fascynuje mnie nie tylko rozgrywka, ale również jakość fabuły i świetnie poprowadzony storytelling, który pozwala mi zagłębić się w fascynujący świat gry.</p>
 <h2>📫 How to reach me</h2>
  Karol.jablonski00@gmail.com
 
